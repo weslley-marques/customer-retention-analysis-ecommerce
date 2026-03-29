@@ -33,7 +33,7 @@ Neste contexto, o projeto busca responder:
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/customer_retention_dataset.png)
 
 O dashboard foi desenvolvido com foco executivo, permitindo rápida interpretação dos principais indicadores:
 
