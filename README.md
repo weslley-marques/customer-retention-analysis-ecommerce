@@ -31,7 +31,7 @@ Neste contexto, o projeto busca responder:
 
 ## 📊 Dashboard
 
-![Dashboard](customer_retention_dataset.png)
+![Dashboard](images/customer_retention_dataset.png)
 
 O dashboard foi desenvolvido com foco executivo, permitindo rápida interpretação dos principais indicadores:
 
@@ -100,5 +100,5 @@ A análise evidencia que a retenção de clientes é o principal desafio do neg�
 ## 👨‍💻 Autor
 
 **Weslley Marques**
-🔗 LinkedIn: https://www.linkedin.com/
-🔗 GitHub: https://github.com/
+🔗 LinkedIn: www.linkedin.com/in/weslley-marques-86a28937b
+
